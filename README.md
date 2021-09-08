@@ -10,6 +10,7 @@ I'm a little developer that loves Minecraft and coding !
 <br />
 I'm currently working on [Colcanite][colcanite]
 <br />
+
 -----------
 <br />
 <img align="left" alt="Hidro stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidrogaming&show_icons=true&hide_border=true&theme=dark" />
