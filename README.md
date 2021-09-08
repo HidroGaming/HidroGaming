@@ -20,7 +20,6 @@ I'm currently working on [Colcanite][colcanite]
 <img align="right" alt="Hidro stats" src="https://github-readme-stats.vercel.app/api?username=hidrogaming&show_icons=true&hide_border=true&theme=radical" />
 <br />
 
------------
 
 [ws]: https://hidrogaming.github.io/
 [colcanite]: https://curseforge.com/minecraft/mc-mods/colcanite
