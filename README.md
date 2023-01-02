@@ -10,7 +10,7 @@ I'm a little developer that loves Minecraft and coding !
 -----------
 
 <br />
-I'm currently working on [Colcanite][colcanite]
+I'm currently working on [my Script Hub][sh]
 <br />
 
 -----------
@@ -22,4 +22,4 @@ I'm currently working on [Colcanite][colcanite]
 
 
 [ws]: https://hidrogaming.github.io/
-[colcanite]: https://curseforge.com/minecraft/mc-mods/colcanite
+[sh]: https://github.com/HidroGaming/ScriptHub
