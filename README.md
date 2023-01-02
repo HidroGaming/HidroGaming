@@ -21,5 +21,5 @@ I'm currently working on [my Script Hub][sh]
 <br />
 
 
-[ws]: https://hidrogaming.github.io/ ,
+[ws]: https://hidrogaming.github.io/
 [sh]: https://github.com/HidroGaming/ScriptHub
