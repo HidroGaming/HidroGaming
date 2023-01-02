@@ -6,7 +6,7 @@ I'm a little developer that loves Minecraft and coding !
 
 -----------
 
-I'm currently working on my Script Hub[](https://github.com/HidroGaming/ScriptHub)
+I'm currently working on my [Script Hub](https://github.com/HidroGaming/ScriptHub)
 
 -----------
 
