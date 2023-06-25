@@ -1,8 +1,8 @@
-### Hello ! I'm [Hidro](https://hidrogaming.github.io)!
+### Hello! I'm [Hidro](https://hidrogaming.github.io)!
 
 -----------
 
-I'm a little developer that loves Minecraft and coding !
+I'm a little developer that loves Minecraft, Roblox, and coding!
 
 -----------
 
